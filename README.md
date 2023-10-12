@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @naseefmohd7
+- 👀 I’m interested in GIS, ArcPy, QGIS, ArcGIS, ArcGIS PRO, FME, Geospatial Tech.
+- 🌱 I’m currently learning Geospatial Technology
+- 💞️ I’m looking to collaborate on Geospatial Technology
+- 📫 How to reach me naseefmohd7@outlook.com
